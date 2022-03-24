@@ -2,6 +2,7 @@
 import sys
 from notebook import Notebook
 
+
 class Menu:
     """Display a menu and respond to choices when run."""
 
