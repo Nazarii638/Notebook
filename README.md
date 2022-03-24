@@ -10,4 +10,5 @@ After execution menu module we can see the interface:
 There are some options that you can use (write the number of the option) for managing the program.
 
 For example, we can add some notes. We need to write 3 in the terminal and after that the sentence that we want. Afterwards, we can check whether the program added the sentence in the note. For that, you should write 1. For leaving the notebook write 5. The example of the execution:
+
 <img width="387" alt="Знімок екрана 2022-03-24 о 20 09 30" src="https://user-images.githubusercontent.com/96167224/159982380-37947a58-e170-43b3-95ad-b93415dee984.png">
